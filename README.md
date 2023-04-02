@@ -12,7 +12,7 @@
 - **Reddit:** https://www.reddit.com/user/CoolerDude_Reddit
 - **LinkedIn** https://www.linkedin.com/in/nagapranav/
 
-- I have a lot of achievements, and they can be viewed through my LinkedIn page. They include being awarded for websites and winning national competitions.
+- 🎗️ I have a lot of achievements, and they can be viewed through my LinkedIn page. They include being awarded for websites and winning national competitions.
 
 <!---
 CoolerGit/CoolerGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
