@@ -1,18 +1,19 @@
-- 👋 Yo, I’m @CoolerDude! Nice to meet you.
+- 👋 Hey, I'm a tech enthusiast who's constantly on the grind.
 
-- 👀 I’m interested in Web-developing, video-editing, graphic-designing, and much, much more.
+- 👀 I’m interested in Web-developing, video-editing, graphic-designing, and many more in the realm of creative experiments.
 
-- 🌱 I’m currently learning JavaScript, along with 3D animation with Blender.
+- 🌱 I’m currently mastering JavaScript, in addition to 3D animation and modelling in Blender.
  
-- 💞️ I’m looking to collaborate on many different projects! Take a look at my repositories and my social media.
+- ⭐ I’m looking to collaborate on many different projects! Take a look at my repositories.
+- ⭐ I specialise in sustainability and inspiring others through my work.
 
 - 📫 Reach me via:
 - **YouTube:** https://www.youtube.com/channel/UC8Sj5wZ4-8BCG0cOL5g-htA/videos
 - **Discord:** https://discord.com/invite/qTEHpsvbmk
 - **Reddit:** https://www.reddit.com/user/CoolerDude_Reddit
-- **LinkedIn** https://www.linkedin.com/in/nagapranav/
+- **LinkTree** https://linktr.ee/nagapranav
 
-- 🎗️ I have a lot of achievements, and they can be viewed through my LinkedIn page. They include being awarded for websites and winning national competitions.
+- 🎗️ You can check out my accolades and recognitions on my LinkedIn profile: https://www.linkedin.com/in/nagapranav/
 
 <!---
 CoolerGit/CoolerGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
