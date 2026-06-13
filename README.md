@@ -1,21 +1,22 @@
-- 👋 Hey, I'm a tech enthusiast who's constantly on the grind.
+### Hi there, my name is CoolerDude <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/dino.gif" width="55">
 
-- 👀 I’m interested in Web-developing, video-editing, graphic-designing, and many more in the realm of creative experiments.
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nagapranav/)](https://www.linkedin.com/in/nagapranav/) [![Website Badge](https://img.shields.io/badge/-Website-8a2d4a?style=flat&link=https://iammateus.com.br/)](https://iammateus.com.br/) [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mateussoaress1997@gmail.com)](mailto:mateussoaress1997@gmail.com) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/ronnyacacio)](https://github.com/iammateus)
 
-- 🌱 I’m currently mastering JavaScript, in addition to 3D animation and modelling in Blender.
- 
-- ⭐ I’m looking to collaborate on many different projects! Take a look at my repositories.
-- ⭐ I specialise in sustainability and inspiring others through my work.
+:bowtie: I am a software engineer passionate about problem-solving and creative solutions.    
+:bank: I work as a software engineer at Nubank, one of the most influential, and disruptive financial companies in Latin America.   
+:shield: Have been focusing my career to the Cyber Security, building software to improve the security in various dimentions of the company.   
+:detective: You can find some projects of mine here on Github.     
+:rocket: Let's make something special!  
 
-- 📫 Reach me via:
-- **YouTube:** https://www.youtube.com/channel/UC8Sj5wZ4-8BCG0cOL5g-htA/videos
-- **Discord:** https://discord.com/invite/qTEHpsvbmk
-- **Reddit:** https://www.reddit.com/user/CoolerDude_Reddit
-- **LinkTree** https://linktr.ee/nagapranav
+### Programming Languages <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/guy.gif" width="55">
 
-- 🎗️ You can check out my accolades and recognitions on my LinkedIn profile: https://www.linkedin.com/in/nagapranav/
+[![Clojure Badge](https://img.shields.io/badge/-Clojure-blue?style=flat&logo=Clojure&logoColor=green&link=https://clojure.org/)](https://clojure.org/)
+[![TypesScript Badge](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=TypeScript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PHP Badge](https://img.shields.io/badge/-PHP-4f5b93?style=flat&logo=php&logoColor=white&link=https://www.php.net/)](https://www.php.net/) 
 
-<!---
-CoolerGit/CoolerGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### What I'm learning <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/itachi.gif" width="55">
+
+:shield: Data Security  
+:robot: How to navigate in the uncertainty of AI  
+:book: :playground_slide: Re-learning how to learn by having fun 
