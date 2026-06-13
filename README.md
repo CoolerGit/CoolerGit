@@ -1,6 +1,6 @@
 ### Hi there, my name is CoolerDude <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/dino.gif" width="55">
 
-# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nagapranav/)](https://www.linkedin.com/in/nagapranav/) [![Website Badge](https://img.shields.io/badge/-Website-8a2d4a?style=flat&link=https://linksta.cc/@pranav)](https://iammateus.com.br/) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://linksta.cc/@pranav)](https://linksta.cc/@pranav)
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nagapranav/)](https://www.linkedin.com/in/nagapranav/) [![Website Badge](https://img.shields.io/badge/-Website-8a2d4a?style=flat&link=https://linksta.cc/@pranav)](https://linksta.cc/@pranav)) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://linksta.cc/@pranav)](https://linksta.cc/@pranav)
 
 :bowtie: I am a software engineer passionate about problem-solving and creative solutions.    
 :bank: I work as a software engineer at Nubank, one of the most influential, and disruptive financial companies in Latin America.   
